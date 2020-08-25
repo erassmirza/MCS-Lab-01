@@ -3,7 +3,7 @@ clear, clc
 %%                              QUESTION 01
 
 % DATA
-p_s = [1 2 1]; q_s = [1 1 0];
+p_s = [1 2 1]; q_s = [0 1 1];
 
 % SOLUTION
 % a)
